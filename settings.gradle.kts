@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "android"
-include(":app")
+rootProject.name = "update"
+include(":android")
  

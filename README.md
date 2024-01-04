@@ -10,6 +10,6 @@ An artifact is available in maven central.
 
 ```kotlin
 dependencies {
-    implementation("com.zhufucdev.")
+    implementation("com.zhufucdev.update:android:1.0.0")
 }
 ```

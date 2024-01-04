@@ -82,7 +82,7 @@ publishing {
                 pom {
                     name = "com.zhufucdev.update:android"
                     description = "Steve's update SDK, Compose Android implementation"
-                    url = "https://github.com/zhufucdev/sdk"
+                    url = "https://github.com/zhufucdev/update"
                     licenses {
                         license {
                             name = "Apache 2.0"
@@ -99,9 +99,9 @@ publishing {
                         }
                     }
                     scm {
-                        connection = "scm:git@github.com:zhufucdev/sdk.git"
-                        developerConnection = "scm:git@github.com:zhufucdev/sdk.git"
-                        url = "https://github.com/zhufucdev/sdk"
+                        connection = "scm:git@github.com:zhufucdev/update.git"
+                        developerConnection = "scm:git@github.com:zhufucdev/update.git"
+                        url = "https://github.com/zhufucdev/update"
                     }
                 }
             }
